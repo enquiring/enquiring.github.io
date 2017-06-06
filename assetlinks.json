@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.myinstantapp",
+    "sha256_cert_fingerprints":
+    ["BE:1A:E0:43:7E:6A:AA:92:07:0C:04:F4:D7:F5:5C:3C:FD:00:25:3C:70:0B:21:69:20:4F:82:66:CF:76:41:B5"]
+  }
+}]
